@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Efframeworkk", "Efframeworkk\Efframeworkk.csproj", "{123BBAE2-E346-4216-81B3-7E71EDFF6772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eftaskhome1", "Eftaskhome1\Eftaskhome1.csproj", "{A2200C20-F79E-4438-9259-BCFF8BD13911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{123BBAE2-E346-4216-81B3-7E71EDFF6772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123BBAE2-E346-4216-81B3-7E71EDFF6772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123BBAE2-E346-4216-81B3-7E71EDFF6772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123BBAE2-E346-4216-81B3-7E71EDFF6772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2200C20-F79E-4438-9259-BCFF8BD13911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2200C20-F79E-4438-9259-BCFF8BD13911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2200C20-F79E-4438-9259-BCFF8BD13911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2200C20-F79E-4438-9259-BCFF8BD13911}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3D7ACBD-A037-4B05-BF5D-93B9FC70CE9B}
+	EndGlobalSection
+EndGlobal
