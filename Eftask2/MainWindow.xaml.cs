@@ -9,9 +9,9 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace EfCoreTask2Codefirst
+namespace Eftask2
 {
-
+   
     public partial class MainWindow : Window
     {
         public MainWindow()
@@ -19,12 +19,10 @@ namespace EfCoreTask2Codefirst
             InitializeComponent();
         }
 
-
-
-#pragma warning disable CS1061
-        private void Window_Load(object sender, RoutedEventArgs e)
+        private void Button_Click(object sender, RoutedEventArgs e)
         {
+
+            Environment.Exit(0);
         }
     }
-
 }
